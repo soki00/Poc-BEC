@@ -4,9 +4,9 @@ from email.mime.text import MIMEText
 import smtplib
 
 
-SMTP_USER = 'partners@agenciademarketingdigital.org'
-SMTP_PASS = 'WEqcbUDV'
-SMTP_HOST = 'mail.agenciademarketingdigital.org'
+SMTP_USER = ''
+SMTP_PASS = ''
+SMTP_HOST = ''
 SMTP_PORT = 587
 
 
